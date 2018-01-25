@@ -6,12 +6,12 @@
 #	Edited in 2018 by Tsukasa OI <floss_cjkv@irq.a4lg.com>.
 #
 #	To the extent possible under law, the author(s) have dedicated all
-#	copyright and related and neighboring rights to this software to the
+#	copyright and related and neighboring rights to this file to the
 #	public domain worldwide.
-#	This software is distributed without any warranty.
+#	This file is distributed without any warranty.
 #
 #	You should have received a copy of the CC0 Public Domain Dedication
-#	along with this software. If not,
+#	along with this file. If not,
 #	see <http://creativecommons.org/publicdomain/zero/1.0/>.
 #
 #
