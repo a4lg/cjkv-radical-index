@@ -18,8 +18,8 @@
 #
 #	底本/Sources (新修絫音引證群籍玉篇):
 #	1. 續修四庫全書 第229册
-#	2. 中華再造善本
-#	3. Internet Archive
+#	2. 中華再造善本 金元編 經部
+#	3. Internet Archive (based on 續修四庫全書 第229册)
 #	   https://archive.org/details/02076716.cn
 #	   https://archive.org/details/02076717.cn
 #	   https://archive.org/details/02076718.cn
