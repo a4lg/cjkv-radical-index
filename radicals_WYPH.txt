@@ -46,7 +46,7 @@
 #	2a. 國家圖書館 110.31 01089 http://rbook2.ncl.edu.tw/Search/SearchDetail?item=81fdacd69cc644a09c476cc48e44b73efDQzMDY30
 #	3. 泰和五音新改併類聚四聲篇 (金刻本/金刻元修本)
 #	3a. 國會圖書館攝製北平圖書館善本書膠片 1063 pp.477-546 (volume 10-12)
-#	3b. 國家圖書館 110.31 01088 http://rbook2.ncl.edu.tw/Search/SearchDetail?item=e23d18a024764368ae56f91ea8c80a28fDQzMDY20
+#	3b. 國家圖書館 110.31 01088 (volume 01-03) http://rbook2.ncl.edu.tw/Search/SearchDetail?item=e23d18a024764368ae56f91ea8c80a28fDQzMDY20
 #
 #
 #	V行 (巻)
