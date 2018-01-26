@@ -946,7 +946,8 @@ M	Q478	Y478	喩	余利切	𠂆	𠂆	Q477	P155	丿	丿	*
 M	Q451	Y451	喩	餘志切	異	異	Q015	P097	田	田	*
 M	Q325	Y325	喩	弋贍切	焱	焱	Q323	P335	火	火	*
 M	Q400	Y400	喩	余赤切	易	易	Q257	P213	勿	勿	*
-# q021: 夜 actually exists at "夕" 部 (P262) but clearly claimed that is merged to "广" 部 in 重編併部依三十六母再顯之圖.
+# q021: All ideographs at "夜" 部 of Qinji Yupian [群籍玉篇] and Longkan Shoujian [龍龕手鑑]
+#       now exists at "夕" 部 (P262) but clearly claimed that is merged to "广" 部 in 重編併部依三十六母再顯之圖.
 #       Not separating the data for now.
 M	q021	L174	喩	余社切	夜	夜	Q352	P072	广	广	*
 M	Q160	Y159	來	力心切	林	林	Q161	P190	木	木	*
