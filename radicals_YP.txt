@@ -17,9 +17,13 @@
 #
 #
 #	底本/Sources (大廣益會玉篇):
-#	1. 日本: 国立公文書館 (内閣文庫) 278-0058 澤存堂本
+#	1. 国立公文書館 (内閣文庫) 278-0058 (澤存堂本)
 #	   https://www.digital.archives.go.jp/das/meta/F1000000000000094736
-#	2. 四部叢刊初編本 (元刻本)
+#	2. CADAL 浙江大学藏本 (澤存堂五種本)
+#	   http://www.cadal.zju.edu.cn/book/view/06570480
+#	   http://www.cadal.zju.edu.cn/book/view/06570481
+#	   http://www.cadal.zju.edu.cn/book/view/06570482
+#	3. 四部叢刊初編本 (元刻本)
 #
 #
 #	V行 (巻)
@@ -501,6 +505,7 @@ r	22	Y343	012a	山	所姦切	*
 r	22	Y344	014b	屾	所因切	*
 r	22	Y345	014b	嵬	午回切	*
 r	22	Y346	014b	屵	牛桀切	*
+# Y347: CADAL: mistake of ordering (014b → 015b → 016a → 015a → 016b)
 r	22	Y347	015a	广	宣檢切	*
 r	22	Y348	016b	厂	呼旦切	*
 r	22	Y349	017a	高	古刀切	髙
