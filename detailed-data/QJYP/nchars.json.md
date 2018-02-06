@@ -53,8 +53,12 @@ The root object is an array of radical information object
 	*	"x?": おそらく "x" だが、異なる解釈も考えられる。
 *	`total`  
 	合計字数。  
-	"notes" に合計字数を示す "t" キーが含まれる場合、
-	その字数。そうでなければ字数に関する注記を合計したもの。
+	"notes" に合計字数を示す "t" キーが含まれる場合、その字数。
+	そうでなければ字数に関する注記を合計したもの。
+*	`total_old`  
+	底本における合計字数 (推定)。  
+	"notes" に底本の字数を示す "o" キーが含まれた場合、その字数。
+	そうでなければ合計字数から字数に関する合計でない注記を差し引いたもの。
 *	`notes`  
 	下に示す注記オブジェクトの連想配列。配列のキーは、
 	原文の解釈が困難な場合には原文のものを、
@@ -98,6 +102,11 @@ This is an associative array including following keys:
 	If "notes" has a key of "t" (indicating total number of characters),
 	corresponding number of that object. If not, total number of
 	characters indicated by "notes" entries.
+*	`total_old`  
+	Total number of characters in the original text of QJYP (estimated).
+	If "notes" has a key of "o" (indicating old number of characters),
+	corresponding number of that object. If not, total number of
+	characters minus non-total numbers of characters.
 *	`notes`  
 	An associative array of note object (described below).
 	The key is the original caption if exact meaning/source of the note is
