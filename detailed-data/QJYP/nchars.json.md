@@ -118,7 +118,7 @@ This is an associative array including following keys:
 	*	`GJ`: Guang Ji Yun (廣集韻; 廣集)
 	*	`SJ`: Sheng Yun or Sheng Ji Yun (省韻; 省集, 省集韻)
 	*	`QY`: Qieyun (切韻)
-	*	`JY`: Jiyun (丁公集韻)
+	*	`JY`: Jiyun (集韻, 丁公集韻)
 	*	`GY`: Guangyun (廣韻)
 	*	`s`:   Additional sounds (添重音; not number of characters)
 	*	`SJs`: Additional sounds in Sheng Yun (省韻; not number of characters)
