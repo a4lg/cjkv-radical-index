@@ -21,6 +21,8 @@ CJKV 古字書 部首インデックス
 	radicals_WYPH.txt
 *	群籍玉篇 (新修絫音引證群籍玉篇)  
 	radicals_QJYP.txt
+*	五侯鯖字海 (精刻海若湯先生校訂音釈五侯鯖字海) / 音韻字海  
+	radicals_YYZH.txt
 
 ライセンス
 -----------
